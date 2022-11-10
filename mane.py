@@ -7,3 +7,9 @@ def mane_function(s):
 s ="Hello GitHub !"
 
 print(mane_function(s))
+
+def greeter(name):
+    return f"Hi, {name}!"
+#name = "Yuriy"
+name = "Yuriy Hritsko"
+print(greeter(name))
