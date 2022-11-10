@@ -3,5 +3,7 @@ def mane_function(s):
 
 #s = "Hello !"
 #s = "Hello world !"
-s = "Hi, How are you?"
+#s = "Hi, How are you?"
+s ="Hello GitHub !"
+
 print(mane_function(s))
