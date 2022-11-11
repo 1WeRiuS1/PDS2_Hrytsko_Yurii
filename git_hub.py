@@ -1,11 +1,6 @@
-#first commit/master
-a = 34
-b = 213
-c = a + b
-print(c)
-
-#2 commit/masrer
-a = 24
+#3 commit/masrer
+a = 26
 b = 13
-c = a * b
+d = 4
+c = (a / b) * d
 print(c)
